@@ -24,8 +24,10 @@ An end-to-end Data Engineering pipeline built on **Azure Databricks (Free Editio
 
 ## 📊 Results
 *Top 20 Most Profitable Pickup Zones (Visualized in Databricks):*
+<img width="1302" height="670" alt="Table" src="https://github.com/user-attachments/assets/9cd8cd5a-6824-462b-b408-1770f44007f1" />
 
-![Dashboard Screenshot](images/gold_dashboard.png)
+<img width="1294" height="665" alt="gold_dashboard" src="https://github.com/user-attachments/assets/610f2e8a-1fde-4cc4-89c5-752a8dfafe51" />
+
 
 ## 🚀 How to Run
 1.  Clone this repo.
